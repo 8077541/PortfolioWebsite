@@ -27,7 +27,7 @@ export function Projects() {
         "A serverless Next.js application that provides comprehensive League of Legends player statistics, match history, and champion performance analysis using the Riot Games API with optimized caching strategies.",
       technologies: ["Next.js", "TypeScript", "Serverless", "Riot Games API", "Vercel", "React"],
       github: "https://github.com/8077541/LeagueProfileViewer",
-      live: "https://lol.dominikjaniakc.om",
+      live: "https://lol.dominikjaniak.com",
       features: [
         "Built as a fully serverless Next.js application deployed on Vercel",
         "Integrated with Riot Games API to fetch real-time player data and statistics",
