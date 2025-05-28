@@ -11,8 +11,8 @@ export function Projects() {
       description:
         "A web comic reader website with JWT authentication that allows users to read, bookmark, and track their reading progress across various comics.",
       technologies: ["Next.js", "C#", ".NET", "SQL", "JWT", "RESTful API"],
-      github: "https://github.com/8077541",
-      live: "#",
+      github: "https://github.com/8077541/IvyScansBack",
+      live: "https://app.dominikjaniakc.om",
       features: [
         "Implemented secure JWT authentication and authorization system",
         "Created a responsive comic reader interface with customizable settings",
@@ -26,8 +26,8 @@ export function Projects() {
       description:
         "A serverless Next.js application that provides comprehensive League of Legends player statistics, match history, and champion performance analysis using the Riot Games API with optimized caching strategies.",
       technologies: ["Next.js", "TypeScript", "Serverless", "Riot Games API", "Vercel", "React"],
-      github: "https://github.com/8077541",
-      live: "#",
+      github: "https://github.com/8077541/LeagueProfileViewer",
+      live: "https://lol.dominikjaniakc.om",
       features: [
         "Built as a fully serverless Next.js application deployed on Vercel",
         "Integrated with Riot Games API to fetch real-time player data and statistics",

@@ -47,14 +47,11 @@ export function About() {
         <div className="bg-gray-900 rounded-lg p-6 border border-gray-800 backdrop-blur-sm animate-fade-in-delay hover:border-cherry/30 transition-all duration-300">
           <p className="text-lg leading-relaxed mb-4">
             Hello there! I'm a software developer with a penchant for C#, JavaScript, and TypeScript, and I thrive in
-            the .NET ecosystem with frameworks like ASP.NET and ReactJS. My database adventures take me through
-            PostgreSQL and SQL Server, while I navigate the DevOps landscape with tools like Git, Azure, and VPS
-            hosting.
+            the .NET ecosystem with frameworks like ASP.NET and ReactJS.
           </p>
           <p className="text-lg leading-relaxed mb-4">
-            I'm a calm and meticulous individual—think of me as the Zen master of debugging. I might start off a bit
-            shy, but once I get to know you, prepare for an avalanche of unfunny jokes that will leave you questioning
-            your life choices!
+            I'm a calm and meticulous individual. I might start off a bit shy, but once I get to know you, prepare for
+            an avalanche of unfunny jokes that will leave you questioning your life choices.
           </p>
           <p className="text-lg leading-relaxed mb-4">
             I'm also a bit stubborn (okay, maybe a lot), which means when I encounter a challenge, I dive deep into
@@ -63,7 +60,7 @@ export function About() {
           </p>
           <p className="text-lg leading-relaxed">
             If you're looking for a dedicated developer who can bring a touch of humor to the team (even if it's the
-            dad-joke kind), I might just be the perfect fit!
+            dad-joke kind)
           </p>
         </div>
       </div>
