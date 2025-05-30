@@ -12,7 +12,7 @@ export function Projects() {
         "A web comic reader website with JWT authentication that allows users to read, bookmark, and track their reading progress across various comics.",
       technologies: ["Next.js", "C#", ".NET", "SQL", "JWT", "RESTful API"],
       github: "https://github.com/8077541/IvyScansBack",
-      live: "https://app.dominikjaniakc.om",
+      live: "https://is.dominikjaniak.com",
       features: [
         "Implemented secure JWT authentication and authorization system",
         "Created a responsive comic reader interface with customizable settings",
